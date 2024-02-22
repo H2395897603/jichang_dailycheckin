@@ -51,6 +51,6 @@ try:
     # 进行推送
     push(content)
 except:
-    content = '签到失败'
+    content = '签到失败111'
     print(content)
     push(content)
